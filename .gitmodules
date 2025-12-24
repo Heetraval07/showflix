@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/HimanshuKumawat13051997/Entertainment_App_Backend
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = https://github.com/HimanshuKumawat13051997/Entertainment_App
